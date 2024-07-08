@@ -1,6 +1,7 @@
 # About Me
 - Night worker
-- I'm currently studying on **Kasetsart University**
+- Software Engineer
+- Graduated from **Computer Engineering @Kasetsart University**
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanonkc&show_icons=true&theme=jolly)
