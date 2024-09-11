@@ -1,6 +1,6 @@
 # About Me
 - Night worker
-- Software Engineer
+- Software Engineer (Entry-level Frontend Developer)
 - Graduated from **Computer Engineering @Kasetsart University**
 
 ## Stats
