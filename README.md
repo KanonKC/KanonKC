@@ -26,11 +26,9 @@
 - Git, Github, Figma, Docker
 
 ## Projects
-- **Grader**  
-    [grader.kanonkc.com](https://grader.kanonkc.com/)
+- **Grader** | [grader.kanonkc.com](https://grader.kanonkc.com/)
     - A senior project for grading programming problems which can handle various programming languages. The project contains a management system that allows users to create their own programming problems and manage their courses.
-- **Turn Up**  
-    [turnup.kanonkc.com](https://turnup.kanonkc.com/)
+- **Turn Up** | [turnup.kanonkc.com](https://turnup.kanonkc.com/)
     - A system that allows users to create playlists for their videos from YouTube, and other users can participate in your playlist with their wish videos from their own devices.
 
 ## Github Stats
